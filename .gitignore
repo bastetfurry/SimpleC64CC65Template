@@ -1,0 +1,5 @@
+.vscode/
+obj/
+vice.tbl
+vice.map
+c64template.c64
